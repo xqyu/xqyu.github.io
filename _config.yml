@@ -1,0 +1,23 @@
+# Site settings
+title: Xiaoqing Yu
+email: sdxqyu@mail.scut.edu.cn
+description: 
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://xqyu.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  xqyu
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+job.title: "Graduate Student"
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
+# google_analytics: UA-108848816-1
